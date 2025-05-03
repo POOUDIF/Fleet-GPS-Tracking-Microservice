@@ -97,7 +97,6 @@ Proyek ini adalah implementasi backend sederhana untuk layanan pelacakan GPS arm
     - `200 OK`: JSON array berisi daftar objek `GPSLog` dalam rentang waktu.
     - `404 Not Found`: Jika kendaraan tidak ditemukan.
 
-## Database Schema
 
 ## Database Schema
 
